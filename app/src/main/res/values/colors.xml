@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1f202d</color>
+    <color name="colorPrimaryDark">#1f202d</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blueStartColor">#2980b9</color>
+    <color name="blueEndColor">#236e9f</color>
+
+    <color name="orangeStartColor">#f39c12</color>
+    <color name="orangeEndColor">#cc830f</color>
+
+    <color name="pinkStartColor">#DB0A5B</color>
+    <color name="pinkEndColor">#bf0950</color>
+
+    <color name="yellowStartColor">#f1c40f</color>
+    <color name="yellowEndColor">#b49209</color>
+
+    <color name="grayStartColor">#BDC3C7</color>
+    <color name="grayEndColor">#898d8f</color>
+</resources>
